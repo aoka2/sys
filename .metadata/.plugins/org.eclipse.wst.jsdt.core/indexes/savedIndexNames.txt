@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\kekek\Documents\java\syS\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1921972218.index
+4247306804.index
+3438023019.index
+2442071042.index
+786137133.index
+4125229313.index
